@@ -39,16 +39,24 @@ Supports:
 ### Example import
 
 ```jsx
-import { RNCamera, FaceDetector } from 'react-native-camera';
+import { RNCamera, FaceDetector } from '@caiosdias/react-native-camera';
 ```
+
+#### How to install?
+
+Install the library using either Yarn or npm:
+
+**yarn**: `yarn add @caiosdias/react-native-camera`
+
+**npm**: `npm install --save @caiosdias/react-native-camera`
 
 #### How to use master branch?
 
 We recommend using the releases from npm, however if you need some features that are not published on npm yet you can install react-native-camera from git.
 
-**yarn**: `yarn add react-native-camera@git+https://git@github.com/caiosdias/react-native-camera.git`
+**yarn**: `yarn add @caiosdias/react-native-camera@git+https://git@github.com/caiosdias/react-native-camera.git`
 
-**npm**: `npm install --save react-native-camera@git+https://git@github.com/caiosdias/react-native-camera.git`
+**npm**: `npm install --save @caiosdias/react-native-camera@git+https://git@github.com/caiosdias/react-native-camera.git`
 
 ##### Permissions
 
