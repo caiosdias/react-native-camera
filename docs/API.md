@@ -74,7 +74,7 @@ Possible values:
 
 ### `cameraId`
 
-For selecting from multiple cameras on Android devices. See [2492](https://github.com/react-native-community/react-native-camera/pull/2492) for more info. Can be retrieved with `getCameraIds()`
+For selecting from multiple cameras on Android devices. See [2492](https://github.com/caiosdias/react-native-camera/pull/2492) for more info. Can be retrieved with `getCameraIds()`
 
 | Type   | Default Value | Platform |
 | ------ | ------------- | -------- |

@@ -6,7 +6,7 @@ sidebar_label: Migrating from RCTCamera to RNCamera
 
 ## Project Integration
 
-Please follow the [RNCamera doc](https://github.com/react-native-community/react-native-camera/blob/master/docs/RNCamera.md) installation guide to install the face detection frameworks on both platforms.
+Please follow the [RNCamera doc](https://github.com/caiosdias/react-native-camera/blob/master/docs/RNCamera.md) installation guide to install the face detection frameworks on both platforms.
 
 ### iOS
 
@@ -153,4 +153,4 @@ In RCTCamera, there was `flashMode` and `torchMode` prop. In RNCamera, these are
 
 ### Other differences
 
-Take a look into the [RCTCamera doc](https://github.com/react-native-community/react-native-camera/blob/master/docs/RCTCamera.md) and the [RNCamera doc](https://github.com/react-native-community/react-native-camera/blob/master/docs/RNCamera.md) to see more differences.
+Take a look into the [RCTCamera doc](https://github.com/caiosdias/react-native-camera/blob/master/docs/RCTCamera.md) and the [RNCamera doc](https://github.com/caiosdias/react-native-camera/blob/master/docs/RNCamera.md) to see more differences.

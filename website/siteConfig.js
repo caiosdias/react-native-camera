@@ -37,7 +37,7 @@ const siteConfig = {
     { page: 'docs/qa', label: 'Help' },
     { doc: 'Tidelift', label: 'For Enterprise' },
     {
-      href: 'https://github.com/react-native-community/react-native-camera',
+      href: 'https://github.com/caiosdias/react-native-camera',
       label: 'GitHub',
     },
   ],
@@ -96,11 +96,11 @@ const siteConfig = {
 
   // Show documentation's last update time.
   enableUpdateTime: true,
-  editUrl: 'https://github.com/react-native-community/react-native-camera/master/docs/',
+  editUrl: 'https://github.com/caiosdias/react-native-camera/master/docs/',
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
-  repoUrl: 'https://github.com/react-native-community/react-native-camera',
+  repoUrl: 'https://github.com/caiosdias/react-native-camera',
 };
 
 module.exports = siteConfig;

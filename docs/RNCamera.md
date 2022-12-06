@@ -800,8 +800,8 @@ To learn about how to test components which uses `RNCamera` check its [documenta
 
 ## Examples
 
-To see more of the `RNCamera` in action you can check out the [RNCamera examples directory](https://github.com/react-native-community/react-native-camera/tree/master/examples).
-Firebase MLKit-base features (such as Text, Face and Barcode detection) can be found in the [mlkit](https://github.com/react-native-community/react-native-camera/tree/master/examples/mlkit) example.
+To see more of the `RNCamera` in action you can check out the [RNCamera examples directory](https://github.com/caiosdias/react-native-camera/tree/master/examples).
+Firebase MLKit-base features (such as Text, Face and Barcode detection) can be found in the [mlkit](https://github.com/caiosdias/react-native-camera/tree/master/examples/mlkit) example.
 
 ## Open Collective
 
