@@ -41,7 +41,7 @@ about: Create a report to help us improve
 <!--describe how to produce the error below-->
 
 <!--**Does it work with Expo Camera?**-->
-<!--Check usage with Expo and comment in this section- https://github.com/react-native-community/react-native-camera/blob/master/docs/Expo_Usage.md
+<!--Check usage with Expo and comment in this section- https://github.com/caiosdias/react-native-camera/blob/master/docs/Expo_Usage.md
 You should open an issue there as well, so we can cooperate in a solution.-->
 
 **Additionals**

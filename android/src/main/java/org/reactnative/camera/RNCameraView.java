@@ -539,7 +539,7 @@ public class RNCameraView extends CameraView implements LifecycleEventListener, 
       return;
     }
 
-    // See discussion in https://github.com/react-native-community/react-native-camera/issues/2786
+    // See discussion in https://github.com/caiosdias/react-native-camera/issues/2786
     final byte[] compressedImage;
     if (mDetectedImageInEvent) {
       try {
